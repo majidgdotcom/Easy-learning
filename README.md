@@ -17,6 +17,20 @@ This project allows users to search for English words in its database and classi
 - **Example Sentences:** Learn how to use words in context.
 - **Free to Use:** Registration is free, and the app is accessible to everyone.
 
+## Team 👩‍💻👨‍💻
+
+- **Majid Ghajari** - Product Owner & Lead Developer (Front-end & Back-end Developer)  
+  Email: [majidgdotcom@gmail.com](mailto:majidgdotcom@gmail.com)
+
+- **Neda Hajibabaei** - Front-end Developer  
+  Email: [n.hajibabaei88@gmail.com](mailto:n.hajibabaei88@gmail.com)
+
+## Technologies Used:
+
+- **.NET** (Back-end development)
+- **ReactJS** (Front-end development)
+- **SQL Database** (Data storage and management)
+
 ## Future Improvements
 
 This app is currently in development, with plans to:
